@@ -1,5 +1,5 @@
-
 import 'package:first_app/screens/floating_action_btn.dart';
+import 'package:first_app/screens/stack_positioned.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'My Flutter App',
       themeMode: ThemeMode.system,
-      home: FloatingActionBtn()
+      home: StackPositioned()
     );
   }
 }
