@@ -8,6 +8,7 @@ class ListViewBuilderScreen extends StatelessWidget {
     "A comfortable queen-sized bed.",
     "A cozy three-seater sofa.",
     "An ergonomic wooden chair."
+
   ];
   final List<int> prices = [250, 400, 100]; // Prices in arbitrary currency
 
