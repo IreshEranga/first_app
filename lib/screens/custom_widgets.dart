@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../widgets/list_view.dart';
 
 class CustomWidgetsScreen extends StatelessWidget {
